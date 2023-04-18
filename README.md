@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Chimaobi-01
-- 👀 I’m interested in Mobile Development, scripting with python 
-- 🌱 I’m currently learning python, Android studio with Java, web scraping with python 
+- 👀 I’m interested in Frontend Development 
+- 🌱 I’m currently building projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 👶 I'm a beginner 
+- 👶 I'm not a beginner 
 
 <!---
 Chimaobi-01/Chimaobi-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
